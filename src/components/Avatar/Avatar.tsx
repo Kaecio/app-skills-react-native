@@ -1,7 +1,7 @@
 import { View, Text, Image } from 'react-native'
 import React from 'react'
 import { styles } from './style'
-import avatar from '../../assets/img/fan.jpg'
+import avatar from '../../../assets/img/fan.jpg'
 
 export default function Avatar() {
   return (
