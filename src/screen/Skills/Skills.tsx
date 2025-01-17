@@ -1,8 +1,8 @@
 import { View, Text, Image } from 'react-native'
 import React from 'react'
 import { styles } from './style'
-import starYellow from '../../assets/icons/starYellow.png'
-import star from '../../assets/icons/star.png'
+import starYellow from '../../../assets/icons/starYellow.png'
+import star from '../../../assets/icons/star.png'
 
 
 interface Skill {
